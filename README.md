@@ -47,9 +47,13 @@ Contributions are welcome! If you find any issues or want to suggest enhancement
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Connect with Me
 
-Feel free to reach out to me via LinkedIn or email. Let's connect and discuss more about the project.
+Have questions or feedback? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yash-rajput-515408214/).
+
+## LinkedIn Post
+
+I've also shared a video about this project on LinkedIn. Check it out: [LinkedIn Post with Video](https://www.linkedin.com/posts/yash-rajput-515408214_librarymanagementsystem-webdevelopment-jsp-activity-7093677547103686656-JAu8?utm_source=share&utm_medium=member_desktop)
 
 ## Acknowledgments
 
